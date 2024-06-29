@@ -14,3 +14,5 @@ Fruit and vagetable Page: berisikan macam-macam sayur dan buah yang dapat dibeli
 My Cart page:Berisikan alamat pengiriman user, user juga bebas memilih mau melakukan pengantaran cepat atau biasa, kalau cepat akan dikenakan sedikit biaya, dan juga user dapat melihat kembali apa saja yang sudah user beli. 
 Transaction History:User dapat melihat apa saja yang telah user tersebut beli.
 My Profile:Berisikan seting akun ataupun jika user ingin mengganti alamat secara permanen dapat dilakukan di sini, dan juga ada customer services jika ada suatu keluhan yang dialamin user.
+
+Berikut link asset untuk 3d view kami: https://drive.google.com/drive/folders/1-EH4YELnysbzB8_hZx2-jZQVJNw0pleU?usp=drive_link
